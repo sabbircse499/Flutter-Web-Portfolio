@@ -15,7 +15,7 @@ class _blogState extends State<blog> {
       child: Column(
         children: [
           Center(
-            child: CustomTypewriterText(text: 'This is Blog section  Now it is Underdevelopment ', fontSize: 20, color: Colors.white),
+            child: CustomTypewriterText(text: 'This is Blog section  Now it is Underdevelopment . Blog is comming ', fontSize: 20, color: Colors.white),
           )
         ],
       ),
